@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Matt Green
 - 👀 I’m interested in cognitive psychology
 - 🌱 I’m currently learning about visual search aspects of foraging behaviour
-<!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me: mgreen@bournemouth.ac.uk
 
 <!---
